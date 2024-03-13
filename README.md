@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilogomes&show_icons=true&theme=transparent)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
